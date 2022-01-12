@@ -1,4 +1,3 @@
-'about': 
 I am Ben, I travel, cook, love my dog and am a movie buff.
 
 Table of Contents:
