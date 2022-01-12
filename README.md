@@ -1,6 +1,6 @@
 I am Ben, I travel, cook and am a movie buff.
 
-Table of Contents:
+*Table of Contents:*
 1. WordPress W<br />
     repos: ['WP-Monitor', 'ChatPress', 'WP-Employees', 'Blank', 'Updates-notifier', 'WP-Sidemenu]<br />
     
