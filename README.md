@@ -5,7 +5,7 @@ Table of Contents:
     repos: ['WP-Monitor', 'ChatPress', 'WP-Employees', 'Blank', 'Updates-notifier', 'WP-Sidemenu]
     
 3. My Dog 🐶
-![dog pic](/772x250.png)
+<br />![dog pic](/IMG_0197.JPG)
 5. Travel ✈
 
 6. TV/Movies and Hosting movie night! 🎥
