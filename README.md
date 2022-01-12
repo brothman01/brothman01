@@ -7,7 +7,7 @@ I am Ben, I travel, cook and am a movie buff.
 3. My Dog 🐶<br />
 ![dog pic](/IMG_0197.JPG)<br />
 
-4. TV/Movies and Hosting movie night! 🎥
+4. TV/Movies and Hosting movie night! 🎥<br />
     repos: ['python-randomizer', 'TV-Assistant']
 
 5. Robotics/IoT 🤖
