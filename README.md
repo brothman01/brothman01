@@ -1,4 +1,4 @@
-I am Ben, I travel, cook, love my dog and am a movie buff.
+I am Ben, I travel, cook and am a movie buff.
 
 Table of Contents:
 1. WordPress W
