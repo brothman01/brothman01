@@ -5,7 +5,7 @@
     repos: ['WP-Monitor', 'ChatPress', 'WP-Employees', 'blank', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', 'wp-post-cloner']<br />
     
 **3. My Dog 🐶**<br />
-![dog pic](/IMG_0197.JPG)<br />
+![dog pic](/IMG_01971.JPG)<br />
 
 **4. TV/Movies and Hosting movie night! 🎥**<br />
     repos: ['python-randomizer', 'TV-Assistant']
