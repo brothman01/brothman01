@@ -14,4 +14,4 @@
     UNDER CONSTRUCTION
 
 **6. Misc 💾**<br />
-    repos: ['COVID-app', 'mlb-historical-stats', 'park-picker', 'python-multithreading']
+    repos: ['COVID-app', 'mlb-historical-stats', 'park-picker', 'python-multithreading', 'you-are-leaving-alert']
