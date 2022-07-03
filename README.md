@@ -1,4 +1,4 @@
-### I am Ben, I travel, cook and am a movie buff.
+### Hi! I am Ben, I travel, cook and am a movie buff.
 https://www.benrothman.org/portfolio | https://stackoverflow.com/users/2441464/fall3n | www.linkedin.com/in/benrothman | https://wordpress.org/support/users/brothman01/
 
 ### Table of Contents:
