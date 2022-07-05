@@ -1,5 +1,5 @@
 ### Hi! I am Ben, I travel, cook and am a movie buff.
-<div style="text-align: center;">https://www.benrothman.org/portfolio | https://stackoverflow.com/users/2441464/fall3n | www.linkedin.com/in/benrothman | https://wordpress.org/support/users/brothman01/</div>
+<center>https://www.benrothman.org/portfolio | https://stackoverflow.com/users/2441464/fall3n | www.linkedin.com/in/benrothman | https://wordpress.org/support/users/brothman01/</center>
 
 ### Table of Contents:
 **1. WordPress** `W`<br />
