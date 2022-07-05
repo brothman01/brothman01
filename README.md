@@ -3,14 +3,14 @@ https://www.benrothman.org/portfolio | https://stackoverflow.com/users/2441464/f
 
 ### Table of Contents:
 **1. WordPress** `W`<br />
-    ['WP-Monitor', 'ChatPress', 'WP-Employees', 'blank', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', 'Brancher', 'wp-post-cloner']<br />
+    [ 'WP-Monitor', 'ChatPress', 'WP-Employees', 'blank', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', 'Brancher', 'wp-post-cloner', 'recent-portfolio-widget-react' ]<br />
     
 **2. My Dog 🐶**<br />
 ![dog pic](/IMG_01971.JPG)<br />
 
 **3. TV/Movies and Hosting movie night! 🎥**<br />
-    ['python-randomizer', 'TV-Assistant']
+    [ 'python-randomizer', 'TV-Assistant' ]
 
 
 **4. Misc 💾**<br />
-    ['COVID-app', 'mlb-historical-stats', 'park-picker', 'python-multithreading', 'you-are-leaving-alert']
+    [ 'COVID-app', 'mlb-historical-stats', 'park-picker', 'python-multithreading', 'you-are-leaving-alert' ]
