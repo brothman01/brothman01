@@ -16,4 +16,4 @@
 
 
 **4. Misc 💾**<br />
-    [ 'COVID-app', 'mlb-historical-stats', 'park-picker', 'python-multithreading', 'you-are-leaving-alert', 'media-query-template' ]
+    [ 'Suitcase', 'COVID-app', 'mlb-historical-stats', 'park-picker', 'python-multithreading', 'you-are-leaving-alert', 'media-query-template' ]
