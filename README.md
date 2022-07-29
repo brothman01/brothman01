@@ -6,7 +6,8 @@
 
 ### Table of Contents:
 **1. WordPress** `W`<br />
-    [ 'Bellhop', 'ChatPress', 'WP-Monitor (retired)', 'WP-Employees', 'blank', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', 'Brancher', 'show-current-template', 'wp-post-cloner', 'recent-portfolio-widget-react', 'React Plugin for WordPress Boilerplate' ]<br />
+    [ 'Bellhop', 'ChatPress', 'WP-Monitor (retired)', 'WP-Employees', 'blank', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', 'Brancher', 'show-current-template', 'wp-post-cloner', 'recent-portfolio-widget-react', 'React Plugin for WordPress Boilerplate', 'portfolio-carousel
+' ]<br />
     
 **2. My Dog 🐶**<br />
 ![dog pic](/IMG_01971.JPG)<br />
