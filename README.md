@@ -14,7 +14,7 @@
 ![dog pic](/IMG_01971.JPG)<br />
 
 **3. TV/Movies and Hosting movie night! 🎥**<br />
-    [ 'python-randomizer', 'TV-Assistant' ]
+    [ 'show-randomizer', 'TV-Assistant' ]
 
 
 **4. Misc 💾**<br />
