@@ -2,7 +2,7 @@
 - https://www.benrothman.org/portfolio
 - www.linkedin.com/in/benrothman
 - https://wordpress.org/support/users/brothman01
--  My commits for work are on other accounts to private repositories
+- https://github.com/brothman-unbridled
 
 ### Table of Contents:
 **1. WordPress** `W`<br />
