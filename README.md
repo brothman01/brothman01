@@ -1,4 +1,4 @@
-### Hi! I am Ben, I travel, cook and am a movie buff.
+### Hi! I am Ben, I travel, build electronics and am a movie buff.
 - https://www.benrothman.org/portfolio
 - www.linkedin.com/in/benrothman
 - https://wordpress.org/support/users/brothman01
