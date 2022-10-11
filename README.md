@@ -1,7 +1,7 @@
 ### Hi! I am Ben, I travel, build electronics and am a movie buff.
 - https://www.benrothman.org
 - www.linkedin.com/in/benrothman
-- https://wordpress.org/support/users/brothman01
+- https://profiles.wordpress.org/brothman01/#content-plugins
 - https://github.com/brothman-unbridled
 
 ### Table of Contents:
