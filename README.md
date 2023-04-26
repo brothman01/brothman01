@@ -1,3 +1,4 @@
+_I have to use a private Github account at work so most of my commits are missing from this page._
 ### Hi! I am Ben, I travel, build electronics and am a movie buff.
 - https://www.benrothman.org
 - www.linkedin.com/in/benrothman
@@ -18,5 +19,3 @@
 
 **4. Misc 💾**<br />
     [ 'Suitcase', 'COVID-app', 'mlb-historical-stats', 'park-picker', 'python-multithreading', 'you-are-leaving-alert', 'media-query-template' ]
-    
-    _I have to use a private Github account at work so most of my commits are missing from this page._
