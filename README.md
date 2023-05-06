@@ -7,8 +7,7 @@ _I have to use a private Github account at work so most of my commits are missin
 
 ### Table of Contents:
 **1. WordPress** `W`<br />
-    [ '**WP Team**', 'Bellhop', 'ChatPress', 'WP-Monitor (retired)', 'WordPress-Block-Timer', 'blank (retired)', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', 'Brancher', 'show-current-template', 'wp-post-cloner', 'recent-portfolio-widget-react', 'React Plugin for WordPress Boilerplate', 'portfolio-carousel
-' ]<br />
+    [ '**WP Team**', 'Bellhop', 'ChatPress', 'WP-Monitor (retired)', '**Rothman-Portfolio**','WordPress-Block-Timer', 'blank (retired)', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', '**Brancher**', 'show-current-template', 'wp-post-cloner', 'recent-portfolio-widget-react', 'React Plugin for WordPress Boilerplate', 'portfolio-carousel' ]<br />
     
 **2. My Dog 🐶**<br />
 ![dog pic](/IMG_01971.JPG)<br />
@@ -18,4 +17,4 @@ _I have to use a private Github account at work so most of my commits are missin
 
 
 **4. Misc 💾**<br />
-    [ 'Suitcase', 'COVID-app', 'mlb-historical-stats', 'park-picker', 'python-multithreading', 'you-are-leaving-alert', 'media-query-template' ]
+    [ '**local-composer**', 'COVID-app', 'mlb-historical-stats', 'park-picker', '**python-multithreading**', 'you-are-leaving-alert', 'media-query-template' ]
