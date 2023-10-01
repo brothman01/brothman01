@@ -7,7 +7,7 @@ _I have to use a private Github account at work so many of my commits (especiall
 
 ### Table of Contents:
 **1. WordPress** `W`<br />
-    [ '**WP Team**', 'Bellhop', 'ChatPress', 'WP-Monitor (retired)', '**Rothman-Portfolio**','WordPress-Block-Timer', 'blank (retired)', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', '**Brancher**', 'show-current-template', 'wp-post-cloner', 'recent-portfolio-widget-react', 'React Plugin for WordPress Boilerplate', 'portfolio-carousel' ]<br />
+    [ '**WP Team**', '**Bellhop**', '**ChatPress**', 'WP-Monitor', '**Rothman-Portfolio**','WordPress-Block-Timer', 'blank (retired)', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', '**Brancher**', 'show-current-template', 'wp-post-cloner', 'recent-portfolio-widget-react', 'React Plugin for WordPress Boilerplate', 'portfolio-carousel' ]<br />
     
 **2. My Dog 🐶**<br />
 ![dog pic](/IMG_01971.JPG)<br />
