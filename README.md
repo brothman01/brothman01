@@ -9,12 +9,10 @@ _I have to use a private Github account at work so many of my commits (especiall
 **1. WordPress** `W`<br />
     [ '**WP Team**', '**Bellhop**', '**ChatPress**', 'WP-Monitor', '**Rothman-Portfolio**','WordPress-Block-Timer', 'blank (retired)', 'Updates-notifier', 'WP-Sidemenu', 'wp-recent-portfolio-widget', '**Brancher**', 'show-current-template', 'wp-post-cloner', 'recent-portfolio-widget-react', 'React Plugin for WordPress Boilerplate', 'portfolio-carousel' ]<br />
     
-**2. My Dog 🐶**<br />
-![dog pic](/IMG_01971.JPG)<br />
 
-**3. TV/Movies and Hosting movie night! 🎥**<br />
+**2. TV/Movies and Hosting movie night! 🎥**<br />
     [ 'show-randomizer', 'TV-Assistant', 'episoder' ]
 
 
-**4. Misc 💾**<br />
+**3. Misc 💾**<br />
     [ '**local-composer**', 'COVID-app', 'mlb-historical-stats', 'park-picker', '**python-multithreading**', 'you-are-leaving-alert', 'media-query-template' ]
