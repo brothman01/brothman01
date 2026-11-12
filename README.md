@@ -1,5 +1,5 @@
 _I have to use a private Github account at work so many of my commits (especially in 2022) are missing from this page._
-### Hi! I am Ben, I travel, write code and am a movie buff.
+### Hi! I am Ben, I travel, write code (often but not exclusively with AI) and am a movie buff.
 - https://www.benrothman.org
 - www.linkedin.com/in/benrothman
 - https://profiles.wordpress.org/brothman01/#content-plugins
